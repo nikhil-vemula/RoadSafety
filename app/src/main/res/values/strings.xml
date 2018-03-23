@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoadSafety</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_permission_denied">Permission Denied</string>
+    <string name="permission_required_toast">Permission Required</string>
+    <string name="permission_rationale_location">Location Permission</string>
+</resources>
